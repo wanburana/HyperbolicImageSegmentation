@@ -1,6 +1,6 @@
 numpy
-tensorflow==1.14
+tensorflow-gpu==1.14
 networkx==2.5.1
 matplotlib
 Pillow
-opencv-python
+opencv-python==4.3.0.38
